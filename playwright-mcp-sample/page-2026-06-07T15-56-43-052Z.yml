@@ -1,0 +1,16 @@
+- generic [ref=e2]:
+  - heading "Analyze Youtube Neighbors" [level=1] [ref=e3]:
+    - link "Analyze Youtube Neighbors" [ref=e4] [cursor=pointer]:
+      - /url: /
+  - heading "Youtubeチャンネルを分析してみよう" [level=4] [ref=e5]
+  - generic [ref=e8]:
+    - textbox "気になるyoutuberの名前やキーワードを入力してください" [ref=e9]
+    - button "search" [ref=e10] [cursor=pointer]:
+      - img "search" [ref=e11]
+  - generic [ref=e12]:
+    - heading "検索結果" [level=1] [ref=e13]
+    - heading "分析したいチャンネルのアイコンをクリックしてください又は再検索してください" [level=3] [ref=e14]
+    - paragraph
+    - table:
+      - rowgroup
+  - generic [ref=e15]: konpakuzero

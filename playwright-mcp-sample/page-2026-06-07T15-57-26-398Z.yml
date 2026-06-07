@@ -1,0 +1,56 @@
+- generic [ref=e2]:
+  - heading "Analyze Youtube Neighbors ログイン 会員登録" [level=1] [ref=e3]:
+    - generic [ref=e4]:
+      - link "Analyze Youtube Neighbors" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - button "ログイン" [ref=e6] [cursor=pointer]
+      - button "会員登録" [ref=e7] [cursor=pointer]
+  - generic [ref=e10]:
+    - textbox "気になるyoutuberの名前やキーワードを入力してください" [ref=e11]
+    - button "search" [ref=e12] [cursor=pointer]:
+      - img "search" [ref=e13]
+  - generic [ref=e14]:
+    - heading "HikakinTVの分析結果" [level=1] [ref=e15]
+    - tablist [ref=e16]:
+      - listitem [ref=e17]:
+        - tab "再生数" [ref=e18] [cursor=pointer]
+      - listitem [ref=e19]:
+        - tab "高評価数" [ref=e20] [cursor=pointer]
+      - listitem [ref=e21]:
+        - tab "複合" [ref=e22] [cursor=pointer]
+      - listitem [ref=e23]:
+        - link "公開時間" [ref=e24] [cursor=pointer]:
+          - /url: "#scat"
+    - tabpanel [ref=e26]:
+      - generic [ref=e28]:
+        - button "グラフタイプ切り替え" [ref=e29] [cursor=pointer]
+        - button "グラフデータ並べ替え" [ref=e30] [cursor=pointer]
+    - generic [ref=e31]:
+      - separator [ref=e32]
+      - heading "チャンネルプロフィール情報" [level=1] [ref=e33]
+      - table [ref=e34]:
+        - rowgroup [ref=e35]:
+          - row "チャンネル名 動画投稿数 チャンネル登録者数 総再生数 チャンネル創設日時" [ref=e36]:
+            - columnheader "チャンネル名" [ref=e37]
+            - columnheader "動画投稿数" [ref=e38]
+            - columnheader "チャンネル登録者数" [ref=e39]
+            - columnheader "総再生数" [ref=e40]
+            - columnheader "チャンネル創設日時" [ref=e41]
+        - rowgroup [ref=e42]:
+          - row "HikakinTV 3,708 19,700,000 15,647,720,923 2011年07月19日11時" [ref=e43]:
+            - columnheader "HikakinTV" [ref=e44]
+            - columnheader "3,708" [ref=e45]
+            - columnheader "19,700,000" [ref=e46]
+            - columnheader "15,647,720,923" [ref=e47]
+            - columnheader "2011年07月19日11時" [ref=e48]
+      - generic [ref=e49]:
+        - heading "HikakinTVの動画時間の分析" [level=1] [ref=e50]
+        - heading "平均値：28分7秒 中央値：31分19秒" [level=2] [ref=e51]:
+          - generic [ref=e53]: 平均値：28分7秒
+          - generic [ref=e55]: 中央値：31分19秒
+      - heading "平均投稿頻度：6日" [level=2] [ref=e56]:
+        - generic [ref=e58]: 平均投稿頻度：6日
+      - generic [ref=e59]:
+        - heading "動画情報（最大５０件）" [level=1] [ref=e60]
+        - button "テーブル 表示/非表示" [ref=e61] [cursor=pointer]
+    - generic [ref=e62]: konpakuzero

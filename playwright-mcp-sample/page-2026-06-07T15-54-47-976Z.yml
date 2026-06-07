@@ -1,0 +1,156 @@
+- generic [ref=e2]:
+  - heading "Analyze Youtube Neighbors" [level=1] [ref=e3]:
+    - link "Analyze Youtube Neighbors" [ref=e4] [cursor=pointer]:
+      - /url: /
+  - heading "Youtubeチャンネルを分析してみよう" [level=4] [ref=e5]
+  - generic [ref=e8]:
+    - textbox "気になるyoutuberの名前やキーワードを入力してください" [ref=e9]
+    - button "search" [ref=e10] [cursor=pointer]:
+      - img "search" [ref=e11]
+  - generic [ref=e12]:
+    - heading "検索結果" [level=1] [ref=e13]
+    - heading "分析したいチャンネルのアイコンをクリックしてください又は再検索してください" [level=3] [ref=e14]
+    - paragraph
+    - table [ref=e15]:
+      - rowgroup [ref=e16]:
+        - row "Icon HikakinTV UCZf__ehlCEBPop-_sldpBUQ" [ref=e17]:
+          - cell "Icon" [ref=e18]:
+            - link "Icon" [ref=e19] [cursor=pointer]:
+              - /url: /test?channel_name=HikakinTV&channel_id=UCZf__ehlCEBPop-_sldpBUQ
+              - img "Icon" [ref=e20]
+          - cell "HikakinTV" [ref=e21]
+          - cell "UCZf__ehlCEBPop-_sldpBUQ" [ref=e22]
+        - row "Icon HikakinGames UCX1xppLvuj03ubLio8jslyA" [ref=e23]:
+          - cell "Icon" [ref=e24]:
+            - link "Icon" [ref=e25] [cursor=pointer]:
+              - /url: /test?channel_name=HikakinGames&channel_id=UCX1xppLvuj03ubLio8jslyA
+              - img "Icon" [ref=e26]
+          - cell "HikakinGames" [ref=e27]
+          - cell "UCX1xppLvuj03ubLio8jslyA" [ref=e28]
+        - row "Icon HikakinClipTV UCwVpSzeulUnd-W0jZwnmXYg" [ref=e29]:
+          - cell "Icon" [ref=e30]:
+            - link "Icon" [ref=e31] [cursor=pointer]:
+              - /url: /test?channel_name=HikakinClipTV&channel_id=UCwVpSzeulUnd-W0jZwnmXYg
+              - img "Icon" [ref=e32]
+          - cell "HikakinClipTV" [ref=e33]
+          - cell "UCwVpSzeulUnd-W0jZwnmXYg" [ref=e34]
+        - row "Icon HIKAKIN UClLV6D8S4CrVJL64-aQvwTw" [ref=e35]:
+          - cell "Icon" [ref=e36]:
+            - link "Icon" [ref=e37] [cursor=pointer]:
+              - /url: /test?channel_name=HIKAKIN&channel_id=UClLV6D8S4CrVJL64-aQvwTw
+              - img "Icon" [ref=e38]
+          - cell "HIKAKIN" [ref=e39]
+          - cell "UClLV6D8S4CrVJL64-aQvwTw" [ref=e40]
+        - row "Icon HikakinBlog UCQMoeRP9SDaFipXDBIp3pFA" [ref=e41]:
+          - cell "Icon" [ref=e42]:
+            - link "Icon" [ref=e43] [cursor=pointer]:
+              - /url: /test?channel_name=HikakinBlog&channel_id=UCQMoeRP9SDaFipXDBIp3pFA
+              - img "Icon" [ref=e44]
+          - cell "HikakinBlog" [ref=e45]
+          - cell "UCQMoeRP9SDaFipXDBIp3pFA" [ref=e46]
+        - row "Icon HIKAKIN & SEIKIN - Topic UCJ8miSfGoAyQDpW-itFEJgg" [ref=e47]:
+          - cell "Icon" [ref=e48]:
+            - link "Icon" [ref=e49] [cursor=pointer]:
+              - /url: /test?channel_name=HIKAKIN & SEIKIN - Topic&channel_id=UCJ8miSfGoAyQDpW-itFEJgg
+              - img "Icon" [ref=e50]
+          - cell "HIKAKIN & SEIKIN - Topic" [ref=e51]
+          - cell "UCJ8miSfGoAyQDpW-itFEJgg" [ref=e52]
+        - row "Icon HIKAKIN Twitchアーカイブ保管庫 UCfy01wxPw12fp6WSh2fNSJA" [ref=e53]:
+          - cell "Icon" [ref=e54]:
+            - link "Icon" [ref=e55] [cursor=pointer]:
+              - /url: /test?channel_name=HIKAKIN Twitchアーカイブ保管庫&channel_id=UCfy01wxPw12fp6WSh2fNSJA
+              - img "Icon" [ref=e56]
+          - cell "HIKAKIN Twitchアーカイブ保管庫" [ref=e57]
+          - cell "UCfy01wxPw12fp6WSh2fNSJA" [ref=e58]
+        - row "Icon HIKAKIN - Topic UCjG5NInPePuh4oj1Zdvw5Kw" [ref=e59]:
+          - cell "Icon" [ref=e60]:
+            - link "Icon" [ref=e61] [cursor=pointer]:
+              - /url: /test?channel_name=HIKAKIN - Topic&channel_id=UCjG5NInPePuh4oj1Zdvw5Kw
+              - img "Icon" [ref=e62]
+          - cell "HIKAKIN - Topic" [ref=e63]
+          - cell "UCjG5NInPePuh4oj1Zdvw5Kw" [ref=e64]
+        - row "Icon ヒカキンの唾液 UCHNdcHoHKeOxJtalShdIkUQ" [ref=e65]:
+          - cell "Icon" [ref=e66]:
+            - link "Icon" [ref=e67] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキンの唾液&channel_id=UCHNdcHoHKeOxJtalShdIkUQ
+              - img "Icon" [ref=e68]
+          - cell "ヒカキンの唾液" [ref=e69]
+          - cell "UCHNdcHoHKeOxJtalShdIkUQ" [ref=e70]
+        - row "Icon 数キン【数学解説】 UCNhtTv5Uz44_DhzXofektZA" [ref=e71]:
+          - cell "Icon" [ref=e72]:
+            - link "Icon" [ref=e73] [cursor=pointer]:
+              - /url: /test?channel_name=数キン【数学解説】&channel_id=UCNhtTv5Uz44_DhzXofektZA
+              - img "Icon" [ref=e74]
+          - cell "数キン【数学解説】" [ref=e75]
+          - cell "UCNhtTv5Uz44_DhzXofektZA" [ref=e76]
+        - row "Icon 妖精 UCZmSq2y1I-qfFOARO7hAztg" [ref=e77]:
+          - cell "Icon" [ref=e78]:
+            - link "Icon" [ref=e79] [cursor=pointer]:
+              - /url: /test?channel_name=妖精&channel_id=UCZmSq2y1I-qfFOARO7hAztg
+              - img "Icon" [ref=e80]
+          - cell "妖精" [ref=e81]
+          - cell "UCZmSq2y1I-qfFOARO7hAztg" [ref=e82]
+        - row "Icon ヒカキン UCN7cdbGRjnvW-adD_0kuDrA" [ref=e83]:
+          - cell "Icon" [ref=e84]:
+            - link "Icon" [ref=e85] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキン&channel_id=UCN7cdbGRjnvW-adD_0kuDrA
+              - img "Icon" [ref=e86]
+          - cell "ヒカキン" [ref=e87]
+          - cell "UCN7cdbGRjnvW-adD_0kuDrA" [ref=e88]
+        - row "Icon ヒカキンに憧れる11歳こうめいTV UCj2bsXzcSAlsk63Nu7GdghA" [ref=e89]:
+          - cell "Icon" [ref=e90]:
+            - link "Icon" [ref=e91] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキンに憧れる11歳こうめいTV&channel_id=UCj2bsXzcSAlsk63Nu7GdghA
+              - img "Icon" [ref=e92]
+          - cell "ヒカキンに憧れる11歳こうめいTV" [ref=e93]
+          - cell "UCj2bsXzcSAlsk63Nu7GdghA" [ref=e94]
+        - row "Icon まごそぼ(孫と祖母) UCDpCKoQ4ns8HEUttGnrRS_w" [ref=e95]:
+          - cell "Icon" [ref=e96]:
+            - link "Icon" [ref=e97] [cursor=pointer]:
+              - /url: /test?channel_name=まごそぼ(孫と祖母)&channel_id=UCDpCKoQ4ns8HEUttGnrRS_w
+              - img "Icon" [ref=e98]
+          - cell "まごそぼ(孫と祖母)" [ref=e99]
+          - cell "UCDpCKoQ4ns8HEUttGnrRS_w" [ref=e100]
+        - row "Icon ヒカキン UCOMNwxaTx9PGv_3CnSd27dQ" [ref=e101]:
+          - cell "Icon" [ref=e102]:
+            - link "Icon" [ref=e103] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキン&channel_id=UCOMNwxaTx9PGv_3CnSd27dQ
+              - img "Icon" [ref=e104]
+          - cell "ヒカキン" [ref=e105]
+          - cell "UCOMNwxaTx9PGv_3CnSd27dQ" [ref=e106]
+        - row "Icon ヒカキン消えろ UCmeTeNwQdC95RTr5cwUzesA" [ref=e107]:
+          - cell "Icon" [ref=e108]:
+            - link "Icon" [ref=e109] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキン消えろ&channel_id=UCmeTeNwQdC95RTr5cwUzesA
+              - img "Icon" [ref=e110]
+          - cell "ヒカキン消えろ" [ref=e111]
+          - cell "UCmeTeNwQdC95RTr5cwUzesA" [ref=e112]
+        - row "Icon ヒカキンclip UCpV6Ibdtu8kh5vpX3V9virw" [ref=e113]:
+          - cell "Icon" [ref=e114]:
+            - link "Icon" [ref=e115] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキンclip&channel_id=UCpV6Ibdtu8kh5vpX3V9virw
+              - img "Icon" [ref=e116]
+          - cell "ヒカキンclip" [ref=e117]
+          - cell "UCpV6Ibdtu8kh5vpX3V9virw" [ref=e118]
+        - row "Icon HikakinClips【ヒカキン切り抜き】 UCmSaBc_3yWuc8JeWm8A2LRw" [ref=e119]:
+          - cell "Icon" [ref=e120]:
+            - link "Icon" [ref=e121] [cursor=pointer]:
+              - /url: /test?channel_name=HikakinClips【ヒカキン切り抜き】&channel_id=UCmSaBc_3yWuc8JeWm8A2LRw
+              - img "Icon" [ref=e122]
+          - cell "HikakinClips【ヒカキン切り抜き】" [ref=e123]
+          - cell "UCmSaBc_3yWuc8JeWm8A2LRw" [ref=e124]
+        - row "Icon ヒカキンの見習いチャンネル! UC8YRYWIR_Z5msa8rxbYJL8g" [ref=e125]:
+          - cell "Icon" [ref=e126]:
+            - link "Icon" [ref=e127] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキンの見習いチャンネル!&channel_id=UC8YRYWIR_Z5msa8rxbYJL8g
+              - img "Icon" [ref=e128]
+          - cell "ヒカキンの見習いチャンネル!" [ref=e129]
+          - cell "UC8YRYWIR_Z5msa8rxbYJL8g" [ref=e130]
+        - row "Icon ヒカキン UCjSsgblA3GBsO-HzYZxpJog" [ref=e131]:
+          - cell "Icon" [ref=e132]:
+            - link "Icon" [ref=e133] [cursor=pointer]:
+              - /url: /test?channel_name=ヒカキン&channel_id=UCjSsgblA3GBsO-HzYZxpJog
+              - img "Icon" [ref=e134]
+          - cell "ヒカキン" [ref=e135]
+          - cell "UCjSsgblA3GBsO-HzYZxpJog" [ref=e136]
+  - generic [ref=e137]: konpakuzero
